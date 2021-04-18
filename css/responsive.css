@@ -2,7 +2,7 @@
 
 /* 
     Created on   : 28/06/2019.
-    Theme Name   : Rogan - Business and Agency html Template.
+    Theme Name   : Yuvaraj - Business and Agency html Template.
     Version      : 1.1.
     Author       : Creativegigs.
     Developed by : Jubayer al hasan. (me@heloshape.com) / (www.me.heloshape.com)
@@ -16,9 +16,9 @@
   .testimonial-section-standard .slider-wrapper {max-width: 960px;}
 }
 @media (max-width: 1366px) {
-  .rogan-hero-one .line-shape-two {width: 40%;}
-  .rogan-hero-one .line-shape-one {width: 60%;}
-  .rogan-hero-one .shape-one {width: 70%;}
+  .yuvaraj-hero-one .line-shape-two {width: 40%;}
+  .yuvaraj-hero-one .line-shape-one {width: 60%;}
+  .yuvaraj-hero-one .shape-one {width: 70%;}
   .our-service-one .shape-wrapper .shape-eight {width: 50%;}
 }
 @media (max-width: 1199px) {
@@ -26,7 +26,7 @@
   .our-core-feature .feature-block-wrapper {padding-right: 0;}
   .testimonial-section-standard .theme-title-one {text-align: center; margin-bottom: 50px;}
   .testimonial-section-standard .slider-wrapper {max-width: 100%;padding: 0 15px;margin: 0;}
-  .rogan-hero-one .main-illustration,.consultation-section iframe {width: 100%;}
+  .yuvaraj-hero-one .main-illustration,.consultation-section iframe {width: 100%;}
   .why-choose-us {padding: 110px 0 70px;}
   .service-classic-block .text-holder h3 a {font-size: 28px;}
   .service-modern-block .wrapper,.service-modern-block.img-style .wrapper {padding: 0;}
@@ -41,12 +41,12 @@
 
 @media (min-width: 992px) and (max-width: 1366px) {
   .theme-menu-two #mega-menu-holder {margin-left: 50px;}
-  .rogan-hero-section.rogan-hero-three .main-image-shape,
-  .rogan-hero-section.rogan-hero-three .shape-one {width: 750px;height: 750px;}
-  .rogan-hero-section.rogan-hero-three .shape-three {width: 250px;height: 250px; bottom: 37%;}
-  .rogan-hero-section.rogan-hero-three .shape-two {right: 530px;}
-  .rogan-hero-section.rogan-hero-three {padding-bottom: 165px;}
-  .rogan-hero-section.rogan-hero-one {padding-bottom: 250px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .main-image-shape,
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-one {width: 750px;height: 750px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-three {width: 250px;height: 250px; bottom: 37%;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-two {right: 530px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three {padding-bottom: 165px;}
+  .yuvaraj-hero-section.yuvaraj-hero-one {padding-bottom: 250px;}
   .about-us-block-one,.our-service-one {padding-top: 250px;}
   .our-service-one {margin-bottom: 150px;}
   .testimonial-section-classic {padding: 150px 0 270px;}
@@ -76,27 +76,27 @@
   .theme-main-menu {padding-top: 25px;}
   .navbar .dropdown-menu .dropdown-menu .dropdown-item {padding-left: 45px;}
   .navbar .dropdown-menu .dropdown-menu .dropdown-menu  .dropdown-item {padding-left: 60px;}
-  .rogan-hero-section.rogan-hero-three .main-image-shape,
-  .rogan-hero-section.rogan-hero-three .shape-one {width: 450px;height: 450px;}
-  .rogan-hero-section.rogan-hero-three .shape-three {width: 150px;height: 150px; bottom: 60%; right: 120px;}
-  .rogan-hero-section.rogan-hero-three .shape-two {right: 290px; top:10%;}
-  .rogan-hero-section.rogan-hero-three .main-image-shape {top: -90px;right: -120px;}
-  .rogan-hero-section.rogan-hero-three .shape-one {top: -50px;right: -105px;}
-  .rogan-hero-section.rogan-hero-three .banner-upper-heading,.rogan-hero-section .banner-upper-heading,
-  .rogan-hero-section .banner-upper-heading {font-size: 18px;}
-  .rogan-hero-section.rogan-hero-three .banner-main-title,
-  .rogan-hero-section .banner-main-title,.rogan-hero-section.rogan-hero-four .banner-main-title,
-  .rogan-hero-section.rogan-hero-five .banner-main-title {font-size: 50px;line-height: 60px;}
-  .rogan-hero-section.rogan-hero-three .banner-main-title br,.contact-home-one .shape-one,.contact-home-one .shape-two,
+  .yuvaraj-hero-section.yuvaraj-hero-three .main-image-shape,
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-one {width: 450px;height: 450px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-three {width: 150px;height: 150px; bottom: 60%; right: 120px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-two {right: 290px; top:10%;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .main-image-shape {top: -90px;right: -120px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .shape-one {top: -50px;right: -105px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .banner-upper-heading,.yuvaraj-hero-section .banner-upper-heading,
+  .yuvaraj-hero-section .banner-upper-heading {font-size: 18px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .banner-main-title,
+  .yuvaraj-hero-section .banner-main-title,.yuvaraj-hero-section.yuvaraj-hero-four .banner-main-title,
+  .yuvaraj-hero-section.yuvaraj-hero-five .banner-main-title {font-size: 50px;line-height: 60px;}
+  .yuvaraj-hero-section.yuvaraj-hero-three .banner-main-title br,.contact-home-one .shape-one,.contact-home-one .shape-two,
   .about-us-block-two .shape-one,.about-us-block-two .shape-two,.our-core-feature.style-two .shape-one,
   .our-core-feature.style-two .shape-two,.testimonial-section-standard .shape-one,.testimonial-section-standard .shape-two,
-  .rogan-hero-section.rogan-hero-one .banner-main-title br,.rogan-hero-section .banner-main-title.underline span:before,
+  .yuvaraj-hero-section.yuvaraj-hero-one .banner-main-title br,.yuvaraj-hero-section .banner-main-title.underline span:before,
   .about-us-block-one:before,.about-us-block-one .inner-wrapper .path-shape-holder,.consultation-section:before,
   .newsletter-one .shape-six,.newsletter-one .shape-seven,.achivement-section .shape-bg,.why-choose-us .screen-preview,
   .project-details .project-title-two h2 span,.project-details .project-title-two h2 br,.signUp-illustration,
-  .pricing-plan-two .table-wrapper .inner-table .pr-list-text,.rogan-hero-section.rogan-hero-four .screen-wrapper,
-  .rogan-hero-section.rogan-hero-five .shape-wrapper,.about-us-block-two .box-shape {display: none;}
-  .rogan-hero-section .banner-sub-title,.rogan-hero-section .banner-sub-title {font-size: 20px;}
+  .pricing-plan-two .table-wrapper .inner-table .pr-list-text,.yuvaraj-hero-section.yuvaraj-hero-four .screen-wrapper,
+  .yuvaraj-hero-section.yuvaraj-hero-five .shape-wrapper,.about-us-block-two .box-shape {display: none;}
+  .yuvaraj-hero-section .banner-sub-title,.yuvaraj-hero-section .banner-sub-title {font-size: 20px;}
   .theme-title-one .main-title {font-size: 45px;line-height: 60px;}
   .theme-title-one .upper-title {font-size: 18px;}
   .contact-home-one .theme-form-style-two {margin: 50px 0 0;}
@@ -198,7 +198,7 @@
   .newsletter-section .main-wrapper form {max-width: 100%;}
   .newsletter-section .theme-title-one br,.testimonial-section-classic .main-bg,
   .testimonial-section-classic .shape-wrapper {display: none;}
-  .rogan-hero-one .main-illustration {display: none;}
+  .yuvaraj-hero-one .main-illustration {display: none;}
   .testimonial-section-classic .main-content {padding-left: 15px;padding-right: 15px;}
   .testimonial-section-classic .inner-container p {font-size: 20px;line-height: 38px;}
   .testimonial-section-classic .owl-theme .owl-nav {bottom: -190px;}
@@ -227,7 +227,7 @@
   .theme-footer-four .bottom-footer ul li a {margin: 0 8px 10px;}
   .pricing-plan-two .table-wrapper {margin-top: 50px;}
   .theme-st-header .top-header {display: none;}
-  .rogan-hero-section.rogan-hero-five .video-button {position: static;margin-left: 15px;}
+  .yuvaraj-hero-section.yuvaraj-hero-five .video-button {position: static;margin-left: 15px;}
 
 }
 /*(max-width: 767px)*/
@@ -280,7 +280,7 @@
   .signUp-minimal .sign-up-form-wrapper, .signUp-minimal .signin-form-wrapper {padding: 50px 15px 40px;}
   .signUp-standard .signin-form-wrapper #login-form {padding: 0;}
   .signUp-page .social-icon-wrapper a {font-size: 16px;line-height: 48px;}
-  .rogan-hero-section.rogan-hero-four .banner-main-title br,.theme-st-header .cart-action-wrapper,
+  .yuvaraj-hero-section.yuvaraj-hero-four .banner-main-title br,.theme-st-header .cart-action-wrapper,
   .theme-st-header .call-us {display: none;}
   .theme-counter-five .inner-wrapper {width: 100%;}
   .feature-block-three {padding: 40px 15px 30px;}

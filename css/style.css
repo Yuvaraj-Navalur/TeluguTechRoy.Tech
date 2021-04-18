@@ -3,7 +3,7 @@
 
 /* 
     Created on   : 28/06/2019.
-    Theme Name   : Rogan - Business and Agency html Template.
+    Theme Name   : yuvaraj - Business and Agency html Template.
     Version      : 1.1.
     Author       : Creativegigs.
     Developed by : Jubayer al hasan. (me@heloshape.com) / (www.me.heloshape.com)
@@ -22,9 +22,9 @@
 /*   07 - Theme Pagination  */
 /*   08 - Theme Menu  */
 /*   09 - Main Hero Banner  */
-/*   10 - rogan Hero One  */
-/*   11 - rogan Hero Two  */
-/*   12 - rogan Hero Three  */
+/*   10 - yuvaraj Hero One  */
+/*   11 - yuvaraj Hero Two  */
+/*   12 - yuvaraj Hero Three  */
 /*   13 - Our Core Feature  */
 /*   14 - About Us One   */
 /*   15 - About Us Two  */
@@ -668,17 +668,17 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   box-shadow: 0 13px 35px -12px rgba(35,35,35,0.1);
 }
 .sticky-menu.fixed.menu-text-white {background: #110a29;}
-/*^^^^^^^^^^^^^^^^^^^^^ rogan Main Hero Banner ^^^^^^^^^^^^^^^^^^^^^^*/
-.rogan-hero-section {z-index: 9;}
-.rogan-hero-section .main-wrapper {z-index: 5;}
-.rogan-hero-section .banner-upper-heading {
+/*^^^^^^^^^^^^^^^^^^^^^ yuvaraj Main Hero Banner ^^^^^^^^^^^^^^^^^^^^^^*/
+.yuvaraj-hero-section {z-index: 9;}
+.yuvaraj-hero-section .main-wrapper {z-index: 5;}
+.yuvaraj-hero-section .banner-upper-heading {
   color: var(--text-dark);
   font-size: 20px;
   text-transform: uppercase;
 }
-.rogan-hero-section .banner-upper-heading span {color: var(--p-green);}
-.rogan-hero-section .banner-main-title.underline span {position: relative;}
-.rogan-hero-section .banner-main-title.underline span:before {
+.yuvaraj-hero-section .banner-upper-heading span {color: var(--p-green);}
+.yuvaraj-hero-section .banner-main-title.underline span {position: relative;}
+.yuvaraj-hero-section .banner-main-title.underline span:before {
   content: '';
   position: absolute;
   bottom: 7px;
@@ -688,82 +688,82 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   z-index: -1;
   background: #ecf4ff;
 }
-.rogan-hero-section .banner-sub-title {font-size: 23px; color: #929292;}
-.rogan-hero-section .theme-btn,.rogan-hero-section .video-button-one {margin-top: 15px;}
-/*^^^^^^^^^^^^^^^^^^^^^ rogan Hero One ^^^^^^^^^^^^^^^^^^^^^^*/
-.rogan-hero-one .solid-button-one {margin-right: 20px;}
-.rogan-hero-one .shape-one {position: absolute;right: 0;top:30px;}
-.rogan-hero-one .main-illustration {
+.yuvaraj-hero-section .banner-sub-title {font-size: 23px; color: #929292;}
+.yuvaraj-hero-section .theme-btn,.yuvaraj-hero-section .video-button-one {margin-top: 15px;}
+/*^^^^^^^^^^^^^^^^^^^^^ yuvaraj Hero One ^^^^^^^^^^^^^^^^^^^^^^*/
+.yuvaraj-hero-one .solid-button-one {margin-right: 20px;}
+.yuvaraj-hero-one .shape-one {position: absolute;right: 0;top:30px;}
+.yuvaraj-hero-one .main-illustration {
   position: absolute;
   height: 100%;
   width: 1100px;
   right: -170px;
   top:0;
 }
-.rogan-hero-one .main-illustration iframe {width: 100%;height: 100%;}
-/*.rogan-hero-one .main-illustration .b-shape-1 {
+.yuvaraj-hero-one .main-illustration iframe {width: 100%;height: 100%;}
+/*.yuvaraj-hero-one .main-illustration .b-shape-1 {
   position: absolute;
   top:20%;
   left:20%;
   z-index: 1;
 }
-.rogan-hero-one .main-illustration .b-shape-2 {
+.yuvaraj-hero-one .main-illustration .b-shape-2 {
   position: absolute;
   top:42%;
   left:40%;
   z-index: 1;
 }*/
-.rogan-hero-one .line-shape-one {top:0;right: 0;z-index: -1;}
-.rogan-hero-one .line-shape-two {top:0;left: 0;z-index: -1;}
-.rogan-hero-one .light-lamp {top:113px;right: 30px;}
-.rogan-hero-one .shape-two { left: 24%;top:9%; animation: rotated 20s infinite linear;}
-.rogan-hero-one .shape-three { left: 40%;top:13%; animation: animationFramesOne 25s infinite linear;}
-.rogan-hero-one .shape-four { right: 20%;top:18%; animation: animationFramesOne 30s alternate infinite linear;}
-.rogan-hero-one .shape-five { right: 11%;top:23%; animation: animationFramesFour 25s alternate infinite linear;}
-.rogan-hero-one .shape-six { right: 40%;top:36%; animation: rotated 15s infinite linear;}
-.rogan-hero-one .shape-seven { right: 3%;bottom: 11%; animation: animationFramesOne 25s infinite linear;}
-.rogan-hero-one .shape-eight { right: 19%;bottom: 14%; animation: animationFramesOne 30s alternate infinite linear;}
-.rogan-hero-one .shape-nine { right: 55%;bottom: 0; animation: rotated 12s infinite linear;}
-.rogan-hero-one .shape-ten { left: 27%;bottom: 16%; animation: rotated 14s infinite linear;}
-.rogan-hero-one .shape-eleven { left: 15%;bottom: 26%; animation: animationFramesOne 25s infinite linear;}
-.rogan-hero-one .shape-twelve { left: 4%;top: 41%; animation: rotated 14s infinite linear;}
-/*^^^^^^^^^^^^^^^^^^^^^ rogan Hero Two ^^^^^^^^^^^^^^^^^^^^^^*/
-.rogan-hero-section.text-center .theme-btn {margin-left: 10px;margin-right: 10px;}
-.rogan-hero-two .main-illustration {margin: 80px auto 0;}
-.rogan-hero-two .line-shape-one {top:0;right: 0;z-index: -1;}
-.rogan-hero-two .line-shape-two {top:0;left: 0;z-index: -1;}
-.rogan-hero-two .shape-one {left: 12%;top:17%;  animation: rotated 20s infinite linear;}
-.rogan-hero-two .shape-two {left: 36%; top: 12%; animation: animationFramesOne 25s infinite linear;}
-.rogan-hero-two .shape-three {left: 73%; top: 13%; animation: rotated 20s infinite linear;}
-.rogan-hero-two .shape-four {right: 8%; top: 17%; animation: animationFramesFour 25s alternate infinite linear;}
-.rogan-hero-two .shape-five {left: 17%; top: 29%;}
-.rogan-hero-two .shape-six {right: 17%; top: 27%;}
-.rogan-hero-two .shape-seven {left: 8%; top: 42%; animation: rotated 20s infinite linear;}
-.rogan-hero-two .shape-eight {right: 5%; top: 45%; animation: rotated 20s infinite linear;}
-.rogan-hero-two .shape-nine {left: 11%; top: 57%; animation: rotated 20s infinite linear;}
-/*^^^^^^^^^^^^^^^^^^^^^ rogan Hero Three ^^^^^^^^^^^^^^^^^^^^^^*/
-.rogan-hero-section.rogan-hero-three {overflow: hidden;}
-.rogan-hero-section.rogan-hero-three .banner-upper-heading {
+.yuvaraj-hero-one .line-shape-one {top:0;right: 0;z-index: -1;}
+.yuvaraj-hero-one .line-shape-two {top:0;left: 0;z-index: -1;}
+.yuvaraj-hero-one .light-lamp {top:113px;right: 30px;}
+.yuvaraj-hero-one .shape-two { left: 24%;top:9%; animation: rotated 20s infinite linear;}
+.yuvaraj-hero-one .shape-three { left: 40%;top:13%; animation: animationFramesOne 25s infinite linear;}
+.yuvaraj-hero-one .shape-four { right: 20%;top:18%; animation: animationFramesOne 30s alternate infinite linear;}
+.yuvaraj-hero-one .shape-five { right: 11%;top:23%; animation: animationFramesFour 25s alternate infinite linear;}
+.yuvaraj-hero-one .shape-six { right: 40%;top:36%; animation: rotated 15s infinite linear;}
+.yuvaraj-hero-one .shape-seven { right: 3%;bottom: 11%; animation: animationFramesOne 25s infinite linear;}
+.yuvaraj-hero-one .shape-eight { right: 19%;bottom: 14%; animation: animationFramesOne 30s alternate infinite linear;}
+.yuvaraj-hero-one .shape-nine { right: 55%;bottom: 0; animation: rotated 12s infinite linear;}
+.yuvaraj-hero-one .shape-ten { left: 27%;bottom: 16%; animation: rotated 14s infinite linear;}
+.yuvaraj-hero-one .shape-eleven { left: 15%;bottom: 26%; animation: animationFramesOne 25s infinite linear;}
+.yuvaraj-hero-one .shape-twelve { left: 4%;top: 41%; animation: rotated 14s infinite linear;}
+/*^^^^^^^^^^^^^^^^^^^^^ yuvaraj Hero Two ^^^^^^^^^^^^^^^^^^^^^^*/
+.yuvaraj-hero-section.text-center .theme-btn {margin-left: 10px;margin-right: 10px;}
+.yuvaraj-hero-two .main-illustration {margin: 80px auto 0;}
+.yuvaraj-hero-two .line-shape-one {top:0;right: 0;z-index: -1;}
+.yuvaraj-hero-two .line-shape-two {top:0;left: 0;z-index: -1;}
+.yuvaraj-hero-two .shape-one {left: 12%;top:17%;  animation: rotated 20s infinite linear;}
+.yuvaraj-hero-two .shape-two {left: 36%; top: 12%; animation: animationFramesOne 25s infinite linear;}
+.yuvaraj-hero-two .shape-three {left: 73%; top: 13%; animation: rotated 20s infinite linear;}
+.yuvaraj-hero-two .shape-four {right: 8%; top: 17%; animation: animationFramesFour 25s alternate infinite linear;}
+.yuvaraj-hero-two .shape-five {left: 17%; top: 29%;}
+.yuvaraj-hero-two .shape-six {right: 17%; top: 27%;}
+.yuvaraj-hero-two .shape-seven {left: 8%; top: 42%; animation: rotated 20s infinite linear;}
+.yuvaraj-hero-two .shape-eight {right: 5%; top: 45%; animation: rotated 20s infinite linear;}
+.yuvaraj-hero-two .shape-nine {left: 11%; top: 57%; animation: rotated 20s infinite linear;}
+/*^^^^^^^^^^^^^^^^^^^^^ yuvaraj Hero Three ^^^^^^^^^^^^^^^^^^^^^^*/
+.yuvaraj-hero-section.yuvaraj-hero-three {overflow: hidden;}
+.yuvaraj-hero-section.yuvaraj-hero-three .banner-upper-heading {
   font-family: 'gilroy-light';
   font-size: 22px;
   color: var(--text-color);
   letter-spacing: 1.4px;
 }
-.rogan-hero-section.rogan-hero-three .banner-main-title {
+.yuvaraj-hero-section.yuvaraj-hero-three .banner-main-title {
   font-family: 'gilroy-black';
   font-size: 80px;
   line-height: 92px;
 }
-.rogan-hero-section.rogan-hero-three .banner-main-title span {font-family: 'gilroy-ultralight';}
-.rogan-hero-section.rogan-hero-three .solid-button-one {margin-right: 45px;}
-.rogan-hero-section.rogan-hero-three .main-image-shape {
+.yuvaraj-hero-section.yuvaraj-hero-three .banner-main-title span {font-family: 'gilroy-ultralight';}
+.yuvaraj-hero-section.yuvaraj-hero-three .solid-button-one {margin-right: 45px;}
+.yuvaraj-hero-section.yuvaraj-hero-three .main-image-shape {
   width: 990px;
   height: 990px;
   border-radius: 50%;
   top:-205px;
   right: -185px;
 }
-.rogan-hero-section.rogan-hero-three .shape-one {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-one {
   width: 990px;
   height: 990px;
   top: -108px;
@@ -772,7 +772,7 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   border-radius: 50%;
   background: linear-gradient(134deg, #7be7ff, #5bffd2);
 }
-.rogan-hero-section.rogan-hero-three .shape-two {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-two {
   width: 70px;
   height: 70px;
   top:16%;
@@ -781,7 +781,7 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   background: linear-gradient(321deg, rgba(255,56,153,0.36), rgba(255,139,64,0.36));
   border-radius: 50%;
 }
-.rogan-hero-section.rogan-hero-three .shape-three {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-three {
   width: 378px;
   height: 378px;
   bottom: 9%;
@@ -790,92 +790,92 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   background: linear-gradient(321deg, rgba(250,217,97,0.1), rgba(247,107,28,0.1));
   border-radius: 50%;
 }
-.rogan-hero-section.rogan-hero-three .shape-four {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-four {
   width: 12px;
   height: 12px;
   top:20%;
   left: 28%;
   animation: animationFramesOne 25s infinite linear;
 }
-.rogan-hero-section.rogan-hero-three .shape-five {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-five {
   width: 25px;
   height: 25px;
   top:44%;
   left: 4%;
   animation: animationFramesOne 30s alternate infinite linear;
 }
-.rogan-hero-section.rogan-hero-three .shape-six {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-six {
   width: 15px;
   height: 15px;
   top:49%;
   left: 51%;
   animation: animationFramesTwo 35s infinite linear;
 }
-.rogan-hero-section.rogan-hero-three .shape-seven {
+.yuvaraj-hero-section.yuvaraj-hero-three .shape-seven {
   width: 12px;
   height: 12px;
   bottom: 20%;
   left: 33%;
   animation: animationFramesOne 30s infinite linear;
 }
-/*^^^^^^^^^^^^^^^^^^^^^ rogan Hero Four ^^^^^^^^^^^^^^^^^^^^^^*/
-.rogan-hero-section.rogan-hero-four {overflow: hidden;}
-.rogan-hero-section.rogan-hero-four .banner-main-title {font-size: 80px;line-height: 87px;}
-.rogan-hero-section.rogan-hero-four .theme-btn {margin-right: 45px;}
-.rogan-hero-section.rogan-hero-four .bg-shape {bottom: 0;right: 0;}
-.rogan-hero-section.rogan-hero-four .shape-two {
+/*^^^^^^^^^^^^^^^^^^^^^ yuvaraj Hero Four ^^^^^^^^^^^^^^^^^^^^^^*/
+.yuvaraj-hero-section.yuvaraj-hero-four {overflow: hidden;}
+.yuvaraj-hero-section.yuvaraj-hero-four .banner-main-title {font-size: 80px;line-height: 87px;}
+.yuvaraj-hero-section.yuvaraj-hero-four .theme-btn {margin-right: 45px;}
+.yuvaraj-hero-section.yuvaraj-hero-four .bg-shape {bottom: 0;right: 0;}
+.yuvaraj-hero-section.yuvaraj-hero-four .shape-two {
   width: 12px;
   height: 12px;
   top: 20%;
   left: 28%;
   animation: animationFramesOne 25s infinite linear;
 }
-.rogan-hero-section.rogan-hero-four .shape-three {
+.yuvaraj-hero-section.yuvaraj-hero-four .shape-three {
   width: 25px;
   height: 25px;
   top: 20%;
   right: 11%;
   animation: animationFramesTwo 25s infinite linear;
 }
-.rogan-hero-section.rogan-hero-four .shape-four {
+.yuvaraj-hero-section.yuvaraj-hero-four .shape-four {
   width: 20px;
   height: 20px;
   top: 50%;
   left: 47%;
   animation: scale-up-two 5s infinite linear;
 }
-.rogan-hero-section.rogan-hero-four .shape-five {
+.yuvaraj-hero-section.yuvaraj-hero-four .shape-five {
   width: 12px;
   height: 12px;
   bottom: 11%;
   left: 33%;
   animation: animationFramesOne 30s infinite linear;
 }
-.rogan-hero-section.rogan-hero-four .shape-six {
+.yuvaraj-hero-section.yuvaraj-hero-four .shape-six {
   width: 25px;
   height: 25px;
   top: 44%;
   left: 4%;
   animation: animationFramesOne 30s alternate infinite linear;
 }
-.rogan-hero-section.rogan-hero-four .screen-wrapper {z-index: 0;}
-.rogan-hero-section.rogan-hero-four .screen-one {right: 180px;top:200px; overflow: hidden;}
-.rogan-hero-section.rogan-hero-four .screen-one .screen {left: 97px;top:58px;}
-.rogan-hero-section.rogan-hero-four .screen-two {right: 365px;top:315px; overflow: hidden;}
-.rogan-hero-section.rogan-hero-four .screen-two .screen {left: 39px;top:28px;}
-.rogan-hero-section.rogan-hero-four .screen-three {right: 295px;bottom:-180px;overflow: hidden;}
-.rogan-hero-section.rogan-hero-four .screen-four {right: 37%;top:44%;overflow: hidden;}
-.rogan-hero-section.rogan-hero-four .screen-four .screen {left: 51px;top:14px;}
-/*^^^^^^^^^^^^^^^^^^^^^ rogan Hero Five ^^^^^^^^^^^^^^^^^^^^^^*/
-.rogan-hero-section.rogan-hero-five .banner-main-title {
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-wrapper {z-index: 0;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-one {right: 180px;top:200px; overflow: hidden;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-one .screen {left: 97px;top:58px;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-two {right: 365px;top:315px; overflow: hidden;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-two .screen {left: 39px;top:28px;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-three {right: 295px;bottom:-180px;overflow: hidden;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-four {right: 37%;top:44%;overflow: hidden;}
+.yuvaraj-hero-section.yuvaraj-hero-four .screen-four .screen {left: 51px;top:14px;}
+/*^^^^^^^^^^^^^^^^^^^^^ yuvaraj Hero Five ^^^^^^^^^^^^^^^^^^^^^^*/
+.yuvaraj-hero-section.yuvaraj-hero-five .banner-main-title {
   font-family: 'gilroy-black';
   font-size: 80px;
   line-height: 92px;
 }
-.rogan-hero-section.rogan-hero-five .banner-main-title span {
+.yuvaraj-hero-section.yuvaraj-hero-five .banner-main-title span {
   font-family: 'gilroy-ultralight';
 }
-.rogan-hero-section.rogan-hero-five .shape-wrapper {
+.yuvaraj-hero-section.yuvaraj-hero-five .shape-wrapper {
   width: 53%;
   left: auto;
   right: 0;
@@ -883,7 +883,7 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   background: url(../images/home/banner2.jpg) no-repeat center;
   background-size: cover;
 }
-.rogan-hero-section.rogan-hero-five .shape-wrapper .d-text {
+.yuvaraj-hero-section.yuvaraj-hero-five .shape-wrapper .d-text {
   font-family: 'gilroy-black';
   font-size: 600px;
   position: absolute;
@@ -892,7 +892,7 @@ body .shadow-button-one:hover {background: var(--p-rose); color: #fff;}
   color: #fff;
   line-height: initial;
 }
-.rogan-hero-section.rogan-hero-five .video-button {
+.yuvaraj-hero-section.yuvaraj-hero-five .video-button {
   width: 60px;
   height: 60px;
   border-radius: 50%;
