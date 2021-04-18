@@ -1,7 +1,7 @@
 // js Document
 
     // Created on   : 28/06/2019.
-    // Theme Name   : Yuvaraj - Business and Agency html Template.
+    // Theme Name   : yuvaraj - Business and Agency html Template.
     // Version      : 1.1.
     // Author       : Creativegigs.
     // Developed by : Jubayer al hasan. (me@heloshape.com) / (www.me.heloshape.com)
